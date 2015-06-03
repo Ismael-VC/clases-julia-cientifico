@@ -1,13 +1,13 @@
-Computación Científica con Python
+Computación Científica con Julia
 ============================================
 
-Un conjunto de clases sobre computación científica con Python, usando IPython notebooks.
+Un conjunto de clases sobre computación científica con Julia, usando IJulia notebooks.
 
-Para abrir estos notebooks en IPython, descargue los archivos a una carpeta en su computador y desde esa carpeta ejecute:
+Para abrir estos notebooks en IJulia, descargue los archivos a una carpeta en su computador y desde esa carpeta ejecute:
 
-    $ ipython notebook
+    $ ipython notebook --profile julia
 
-Esto abrirá una nueva pestaña de su navegador, con una listo de los notebooks disponibles.
+Esto abrirá una nueva pestaña de su navegador, con una lista de los notebooks disponibles.
 
 Versiones en línea sólo de lectura
 =========================
